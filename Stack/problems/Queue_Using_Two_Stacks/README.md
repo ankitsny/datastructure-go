@@ -1,5 +1,5 @@
 
-# Implement Queu
+# Implement Queue
 
 
 ```go
